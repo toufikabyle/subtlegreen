@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/subtlegreen/static/js/app.82a4d17a.chunk.js",
+    "app.js.map": "/subtlegreen/static/js/app.82a4d17a.chunk.js.map",
+    "runtime~app.js": "/subtlegreen/static/js/runtime~app.a961159f.js",
+    "runtime~app.js.map": "/subtlegreen/static/js/runtime~app.a961159f.js.map",
+    "static/js/2.8f877370.chunk.js": "/subtlegreen/static/js/2.8f877370.chunk.js",
+    "static/js/2.8f877370.chunk.js.map": "/subtlegreen/static/js/2.8f877370.chunk.js.map",
+    "favicon-16.png": "/subtlegreen/favicon-16.png",
+    "favicon-32.png": "/subtlegreen/favicon-32.png",
+    "favicon.ico": "/subtlegreen/favicon.ico",
+    "index.html": "/subtlegreen/index.html",
+    "manifest.json": "/subtlegreen/manifest.json",
+    "serve.json": "/subtlegreen/serve.json",
+    "static/js/2.8f877370.chunk.js.LICENSE.txt": "/subtlegreen/static/js/2.8f877370.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.a961159f.js",
+    "static/js/2.8f877370.chunk.js",
+    "static/js/app.82a4d17a.chunk.js"
+  ]
+}
